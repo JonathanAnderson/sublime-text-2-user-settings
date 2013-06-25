@@ -1,0 +1,22 @@
+{
+	"additional_language_options":
+	{
+	    "c++": ["-std=c++11","-stdlib=libc++"]
+	},
+    "analyzer_extensions":
+    [
+        "C",
+        "cpp",
+        "c",
+        "cc",
+        "m",
+        "mm"
+    ],
+    "analyzer_commandline":
+    [
+        "/usr/local/bin/clang",
+        "--analyze",
+        "-o",
+        "-"
+    ]
+}
