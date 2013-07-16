@@ -1,7 +1,9 @@
 {
+	"color_scheme": "Packages/User/Monokai Soda.tmTheme",
 	"font_size": 14.0,
 	"ignored_packages":
 	[
+		"BracketHighlighter"
 	],
 	"theme": "Soda Dark.sublime-theme"
 }

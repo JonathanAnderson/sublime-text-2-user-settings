@@ -1,8 +1,10 @@
 {
+	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
 		"Alignment",
 		"Awk",
+		"BracketHighlighter",
 		"Julia",
 		"Markdown Slideshow",
 		"MarkdownEditing",
